@@ -1,6 +1,6 @@
-2.4
-2.2.1
-Version 2.4
+2.5
+2.5
+Version 2.5
 更新
-(1)整圓左個icon （2）個用法應該會清晰小小 （3）Fix Bugs
-https://github.com/IT12666/Zoom_Update/releases/latest/download/mac.zip?v2.4
+(1)更新server網址
+https://github.com/IT12666/Zoom_Update/releases/latest/download/mac.zip?v2.5
