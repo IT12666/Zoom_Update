@@ -1,6 +1,0 @@
-2.4
-2.2.1
-Version 2.4
-更新
-(1)整圓左個icon （2）個用法應該會清晰小小 （3）Fix Bugs
-https://zoom.cuhk-page.info/mac/latest.zip?2.4
